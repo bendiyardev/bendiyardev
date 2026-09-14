@@ -103,32 +103,6 @@ I build **SaaS, CRM, ERP, automation products and developer tools** — with a s
 
 ---
 
-## Selected Open Source
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**ClearFast**](https://github.com/bendiyardev/ClearFast) | Open-source Windows cleanup, performance and hardware-health utility | Python |
-| [**open-code-review**](https://github.com/bendiyardev/open-code-review) | Developer-focused open-source code review tooling | Developer Tools |
-| [**iyzipay-woocommerce-subscription**](https://github.com/bendiyardev/iyzipay-woocommerce-subscription) | WooCommerce subscription integration for iyzico/iyzipay workflows | PHP / WooCommerce |
-| [**waweup-chat**](https://github.com/bendiyardev/waweup-chat) | Temporary end-to-end encrypted chat rooms | TypeScript |
-| [**waweup-seoscan**](https://github.com/bendiyardev/waweup-seoscan) | Lightweight technical SEO scanning utility | TypeScript |
-| [**waweup-webhook**](https://github.com/bendiyardev/waweup-webhook) | Small webhook-focused developer utility | TypeScript |
-
----
-
-## Engineering Principles
-
-```text
-Ship useful software.
-Keep interfaces simple.
-Automate repetitive work.
-Measure before optimizing.
-Prefer maintainable systems over clever systems.
-Use AI as leverage — not as a substitute for engineering judgment.
-```
-
----
-
 <div align="center">
 
 ### Building useful software under **dyrdev**
